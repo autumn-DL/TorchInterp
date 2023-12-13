@@ -1,1 +1,1 @@
-# TorchInterp
+# Torch_Interp
